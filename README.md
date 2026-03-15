@@ -1,0 +1,1 @@
+Developed real-time deepfake voice detection model for distinguishing AI-generated from human voices.Created intuitive Gradio interface supporting both live recording and file upload for voice authentication
